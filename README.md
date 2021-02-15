@@ -42,7 +42,7 @@ This is run via the browser so no installation required
 
 ![Code Quiz](https://user-images.githubusercontent.com/74043730/107908255-b6aed780-6fa9-11eb-8b26-dfd78144c509.gif)
 
-Below is the link to the project URL.
+Below is the link to the project URL:
 
 Project URL: https://khaitphan.github.io/Code-Quiz
 
