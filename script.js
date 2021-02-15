@@ -205,7 +205,7 @@ showSlide(currentSlide);
 
 // Setting the timer
 function setTimer() {
-  var timeLeft = 3;
+  var timeLeft = 180;
 
   var timeInterval = setInterval(function() {
     timerEl.textContent = timeLeft + " seconds";
