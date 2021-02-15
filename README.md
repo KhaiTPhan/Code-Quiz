@@ -40,7 +40,7 @@ This is run via the browser so no installation required
 
 ## Usage
 
-![Code Quiz](./images/codequiz.PNG)
+![Code Quiz](./images/code-quiz.gif)
 
 Below is the link to the project URL.
 
