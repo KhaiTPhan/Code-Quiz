@@ -13,8 +13,6 @@ To help familiarise with coding assessments and apply skills learned in javascri
 * Timed coding quiz with multiple choice questions
 * The app will run in the browser
 * Only one question will appear at a time
-* For any incorrect answers a time penalty will be deducted
-* At the end of the quiz, the user can save thier initials and score into local storage
 
 #### Technologies used
 
